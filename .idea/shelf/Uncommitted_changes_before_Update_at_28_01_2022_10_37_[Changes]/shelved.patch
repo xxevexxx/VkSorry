@@ -1,0 +1,19 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># VkSorry\r\nUserBot for vk\r\n# VkSorry
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	(revision 0f13ab88818fa41c30476936fb9c8f63242fe653)
++++ b/README.md	(date 1643355435440)
+@@ -1,3 +1,2 @@
+ # VkSorry
+-UserBot for vk
+-# VkSorry
+\ No newline at end of file
++UserBot for vk
+\ No newline at end of file
+diff --git a/main.py b/main.py
+new file mode 100644
