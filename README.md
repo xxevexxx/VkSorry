@@ -1,3 +1,2 @@
 # VkSorry
 UserBot for vk
-...
